@@ -1,0 +1,4 @@
+
+> @google-cloud/observability-mcp@0.1.2 build
+> tsc --noemit && node build.js
+
