@@ -1,0 +1,10 @@
+{
+  "name": "dynatrace-mcp-server",
+  "version": "0.12.0",
+  "mcpServers": {
+    "dynatrace": {
+      "command": "npx",
+      "args": ["-y", "@dynatrace-oss/dynatrace-mcp-server@latest"]
+    }
+  }
+}
